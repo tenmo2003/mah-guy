@@ -7,4 +7,4 @@ DESTINATION=${1:-$PWD}
 cp -r $SCRIPT_DIR/claude $DESTINATION/.claude
 cp CLAUDE.md $DESTINATION/
 
-echo "CLAUDE.local.md" >> .gitignore
+echo "CLAUDE.local.md" >> $DESTINATION/.gitignore
