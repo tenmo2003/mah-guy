@@ -12,7 +12,7 @@ Prioritize DDD style code for business logic with real domain rules.
 
 ### Comments
 
-You should only write doc-style comments when writing a library or shared utils/helper codes. Do not write comments frequently, only comment when the code itself cannot explain why it was done this way. When a comment is needed, prioritize using comment tags like HACK, FIXME, BUG, NOTE, TODO, etc...
+You can (but not must, you decide) only write doc-style comments when writing a library or shared utils/helper codes. Do not write comments frequently, only comment when the code itself cannot explain why it was done this way. When a comment is needed, prioritize using comment tags like HACK, FIXME, BUG, NOTE, TODO, etc... if applicable.
 
 ### Testing
 
