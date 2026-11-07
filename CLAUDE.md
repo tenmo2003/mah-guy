@@ -30,6 +30,8 @@ When you start to work on something, you should check out to another branch
 
 ### Commit style
 
+Commit should be scoped, small but still meaningful, it makes the code changes way easier to track
+
 Before your first commit in a session, decide which style applies:
 
 - **Mature project** (git history shows a recognizable convention): read recent `git log` and follow the project's convention for subject format, scopes, casing, body and footers. It overrides the default style below. Do not ask the user.
